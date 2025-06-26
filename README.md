@@ -99,8 +99,6 @@ Atualmente, estou me desenvolvendo como **estagiário em Gerenciamento de Projet
 <br/>
 <br/>
 
----
-
 ### 📊 Estatísticas
 
 <p>
