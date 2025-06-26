@@ -10,6 +10,8 @@ Durante a semana, me dedico aos estudos para aprofundar meus conhecimentos em te
 
 Atualmente, estou me desenvolvendo como **estagiário em Gerenciamento de Projetos na Vivo (Telefônica Brasil)**, onde tenho a oportunidade de adquirir uma visão ampla sobre os diversos setores de TI. Além disso, estudo desenvolvimento de software por conta própria, tanto back-end quanto front-end, pois sou bastante interessado em toda a jornada da criação de soluções digitais.
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <p align="left">
     <a href="https://www.linkedin.com/in/vinicius-iandoli-diogo/">
         <img 
