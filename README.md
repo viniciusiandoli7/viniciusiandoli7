@@ -111,7 +111,7 @@ Atualmente, estou me desenvolvendo como **estagiário em Gerenciamento de Projet
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusiandoli7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
