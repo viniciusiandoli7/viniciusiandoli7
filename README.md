@@ -4,7 +4,7 @@
 
 ### 👨🏼‍💻 Desenvolvedor FullStack
 
-Me chamo Vinicius Iandoli Diogo, tenho 21 anos e sou de São Paulo. Atualmente, curso **Engenharia de Software** na **USJT** e sou apaixonado por tecnologia, esportes e games.
+Me chamo Vinicius Iandoli Diogo, tenho 22 anos e sou de São Paulo. Atualmente, curso **Engenharia de Software** na **USJT** e sou apaixonado por tecnologia, esportes e games.
 
 Durante a semana, me dedico aos estudos para aprofundar meus conhecimentos em tecnologia, enquanto nos finais de semana atuo como atleta, mantendo o equilíbrio entre corpo e mente. Nas horas vagas, gosto de jogar online para relaxar e me divertir.
 
