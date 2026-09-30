@@ -118,3 +118,9 @@ Atualmente, estou me desenvolvendo como **estagiário em Gerenciamento de Projet
   />
 
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusiandoli7/viniciusiandoli7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciusiandoli7/viniciusiandoli7/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/viniciusiandoli7/viniciusiandoli7/output/github-snake.svg" />
+</picture>
